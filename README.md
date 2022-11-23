@@ -22,6 +22,8 @@
   <img alt="PostgreSQL logo" src="https://github.com/Fliss317/Fliss317/blob/main/new_postgresql_logo.png" width="75" height="auto" />
 </p>
 
+<hr />
 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fliss317&color=red&label=Views" /></p>
 
 
