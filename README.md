@@ -21,8 +21,8 @@
   <img alt="Cypress logo" src="https://github.com/Fliss317/Fliss317/blob/main/new_cypress_logo.jpg" width="75" height="auto" />
   <img alt="PostgreSQL logo" src="https://github.com/Fliss317/Fliss317/blob/main/new_postgresql_logo.png" width="75" height="auto" />
   <img alt="TypeScript logo" src="https://github.com/Fliss317/Fliss317/blob/main/typescript-logo-png.png" width="75" height="auto" />
-  <img alt="Next logo" src="https://github.com/Fliss317/Fliss317/blob/main/next_js_logo.png.png" width="75" height="auto" />
-  <img alt="C# logo" src="https://github.com/Fliss317/Fliss317/blob/main/c_sharp_logo.png.png" width="75" height="auto" />
+  <img alt="Next logo" src="https://github.com/Fliss317/Fliss317/blob/main/next_js_logo.png" width="75" height="auto" />
+  <img alt="C# logo" src="https://github.com/Fliss317/Fliss317/blob/main/c_sharp_logo.png" width="75" height="auto" />
 </p>
 
 <hr />
