@@ -12,6 +12,16 @@ export default function WarbandBuilder() {
                 placeholder="Enter Warband Name"
                 type="text"
                 />
+                <div className="dropdown">
+  <button>Warband Selector</button>
+  <div id="myDropdown" className="warband_selector">
+    <ol>Reikland Mercenaries</ol>
+    <ol>Marienburg Mercenaries</ol>
+    <ol>Middenheim Mercenaries</ol>
+    <ol>Sisters of Sigmar</ol>
+    <ol></ol>
+  </div>
+</div> 
             </div>
         </div>
     )

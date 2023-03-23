@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google';
 import styles from '@/styles/Home.module.css';
 import Builder from "../Components/Builder";
 
-export default function createWarband () {
+export default function CreateWarband () {
 
     return (
         <>
